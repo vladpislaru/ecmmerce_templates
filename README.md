@@ -1,2 +1,0 @@
-# ecmmerce_templates
-Ceva
